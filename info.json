@@ -1,0 +1,21 @@
+{
+  "name": "Mitch Raznick",
+  "website": "https://mraznick.github.io/",
+  "linkedin": "https://www.linkedin.com/in/mraznick/",
+  "github": "mraznick",
+  "email": "mraznick@gmail.com",
+  "resume": "https://mraznick.github.io/assets/Malik-Hammad-Resume.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Mongodb",
+    "HTML",
+    "CSS"
+  ],
+  "softSkills": [
+    "Leadership",
+    "Communication",
+    "Problem Solving"
+  ]
+}

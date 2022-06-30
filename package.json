@@ -1,0 +1,14 @@
+{
+  "name": "mraznick-resume",
+  "version": "1.0.0",
+  "description": "this is Mitch Raznick's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitch Raznick",
+  "license": "ISC"
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
